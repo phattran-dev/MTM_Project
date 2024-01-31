@@ -1,0 +1,8 @@
+1/ .NET projects:
+- Private || Readonly fields: _<name>
+- Public || Protect || Internal fields || Property: UpperCamelCase
+- Class || Method || Function: UpperCamelCase
+- Interface: IUpperCamelCase
+- Local variable || Parameter: lowerCamelCase
+- Controller Name: <Entity||Business>sController.cs
+- API Endpoint: "api/<Entity||Business>s"
