@@ -1,0 +1,3 @@
+1/ Add GitIgnore:
+- For .Net: 
+    + From The .Net Core 3.0 SDK, we can use the CLI: "dotnet new gitignore"
