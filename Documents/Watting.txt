@@ -1,0 +1,2 @@
+1/ To config local debug port:
+- Add "Urls": "https://localhost:5001" into appsetting.json
