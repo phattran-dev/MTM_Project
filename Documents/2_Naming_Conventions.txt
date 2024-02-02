@@ -4,5 +4,11 @@
 - Class || Method || Function: UpperCamelCase
 - Interface: IUpperCamelCase
 - Local variable || Parameter: lowerCamelCase
-- Controller Name: <Entity||Business>sController.cs
+- Controller Name: <Entity||Business>sController.cssss
 - API Endpoint: "api/<Entity||Business>s"
+
+2/ Database Conventions:
+- Table name: <Entity>s 
+- Field: UpperCamelCase
+- Name for field content dynamic type (object): Metadata
+    + InCase have multiple fields have dynamic type in a table: Metadata<UpperCamelCase>
